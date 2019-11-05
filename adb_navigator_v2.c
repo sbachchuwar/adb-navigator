@@ -14,7 +14,7 @@
 int main()
 {
 char key;
-char text[256]="hi";
+char text[256]="input-";
 char ic[22]="adb shell input text ";
 char temp[256];
 
